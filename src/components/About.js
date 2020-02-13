@@ -1,5 +1,10 @@
 import React from 'react';
 
-const About = () => <h1>About</h1>;
+const About = () => 
+<div className="content">
+<img src="https://media.giphy.com/media/26FeU2tmGFSedYNxe/giphy.gif"/>
+</div>
+
+;
 
 export default About;

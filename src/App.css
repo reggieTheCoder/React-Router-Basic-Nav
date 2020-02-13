@@ -1,4 +1,13 @@
+html, 
+body, 
+#root{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+
 .App {
+  padding-top: 5%;
   text-align: center;
 }
 
@@ -9,3 +18,10 @@
 .nav-item {
   margin-top: 1rem;
 }
+
+.content{
+  padding-top: 5%;
+  text-align: center;
+}
+
+
